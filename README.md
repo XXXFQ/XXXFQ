@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=XXXFQ&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=XXXFQ&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats-phi-green-33.vercel.app/api/top-langs/?username=XXXFQ&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![ARM's GitHub stats](https://github-readme-stats-phi-green-33.vercel.app/api?username=XXXFQ&theme=onedark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
