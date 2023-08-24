@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats-clone-eta.vercel.app/api/top-langs/?username=XXXFQ&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![ARM's GitHub stats](https://github-readme-stats-clone-eta.vercel.app/api?username=XXXFQ&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-green-33.vercel.app/api/top-langs/?username=XXXFQ&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![ARM's GitHub stats](https://github-readme-stats-phi-green-33.vercel.app/api?username=XXXFQ&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XXXFQ/XXXFQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
