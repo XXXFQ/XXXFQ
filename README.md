@@ -3,12 +3,6 @@
   <a href="https://github.com/XXXFQ" target="blank">
     <img src="https://komarev.com/ghpvc/?username=XXXFQ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="http://qiita.com/40414">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/40414/posts.svg" />
-  </a>
-  <a href="http://qiita.com/40414">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/40414/contributions.svg" />
-  </a>
 </div>
 
 <h1 align="center">🌟 Welcome to ARM's GitHub! 🌟</h1>
